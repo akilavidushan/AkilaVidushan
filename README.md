@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Akila Vidushan</h1>
-<h3 align="center">🎓 First Class BSc (Hons) Data Science Graduate | NSBM Green University (Plymouth University)</h3>
+<h3 align="center">🎓 First Class BSc (Hons) Data Science Graduate | Plymouth University</h3>
 
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=akilavidushan&label=Profile%20views&color=0e75b6&style=flat" alt="akilavidushan" /> 
